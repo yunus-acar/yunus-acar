@@ -4,6 +4,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/yunus_emreee67/) 
 [![Blog Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://www.yunusacar.com)
 
-[<img src="https://now-playing-yunus-emreee67.vercel.app/api/spotify-playing" alt="yunus-emreee67 Spotify Playing" width="350" />](https://open.spotify.com/playlist/6gfiXnxdj3LuKoODjqZ0Ms?si=K_APzve-R-eaAZ0uFFxhHQ)
+[<img src="https://now-playing-yunus.vercel.app/api/spotify-playing" alt="yunus-emreee67 Spotify Playing" width="350" />](https://open.spotify.com/playlist/6gfiXnxdj3LuKoODjqZ0Ms?si=K_APzve-R-eaAZ0uFFxhHQ)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=yunus-emreee67&show_icons=true&theme=radical)
