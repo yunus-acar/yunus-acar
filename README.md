@@ -5,4 +5,4 @@
 [![Blog Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://www.yunusacar.com)
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=yunus-emreee67&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=yunus-emreee67&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
