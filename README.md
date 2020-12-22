@@ -27,8 +27,10 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 
+<hr/>
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=yunus-emreee67&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yunus-emreee67)
