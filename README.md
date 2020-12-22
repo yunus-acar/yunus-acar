@@ -15,7 +15,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
+<hr/>
 
+##### Çalıştığım teknolojilerden bazıları
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
