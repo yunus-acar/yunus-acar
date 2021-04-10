@@ -26,7 +26,8 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
-![PHP Storm](http://img.shields.io/badge/-PHP%20Storm-007ACC?style=flat&logo=phpstorm-code&logoColor=ffffff)
+![Web Storm](http://img.shields.io/badge/-WebStorm-007ACC?style=flat&logo=webstorm&logoColor=ffffff)
+![Py Charm](http://img.shields.io/badge/-PyCharm-007ACC?style=flat&logo=pycharm&logoColor=ffffff)
 <hr/>
 
 ##### GitHub İstatistiklerim (Yalnızca Herkese Açık Katkılar)
