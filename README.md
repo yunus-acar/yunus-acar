@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:yunus3emre4@outlook.com)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@yunus3mre4)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/yunus_emreee67/) 
-[![Twitter](https://img.shields.io/badge/-twitter-c14438?style=flat&logo=twitter&logoColor=22405A)](https://twitter.com/yunus_emreee67)
+[![Twitter](https://img.shields.io/badge/-twitter-22405A?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yunus_emreee67)
 <hr/>
 
 ##### Kullandığım diller
