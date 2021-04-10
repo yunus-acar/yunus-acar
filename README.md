@@ -26,7 +26,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
-![Web Storm](http://img.shields.io/badge/-WebStorm-007ACC?style=flat&logo=webstorm&logoColor=ffffff)
+![Web Storm](http://img.shields.io/badge/-WebStorm-00CDD7?style=flat&logo=webstorm&logoColor=ffffff)
 ![Py Charm](http://img.shields.io/badge/-PyCharm-FCF84A?style=flat&logo=pycharm&logoColor=727272)
 <hr/>
 
