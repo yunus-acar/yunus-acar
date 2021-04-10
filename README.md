@@ -5,7 +5,7 @@
  
 [![GitHub followers](https://img.shields.io/github/followers/yunus-emreee67.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yunus-emreee67?tab=followers)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-acar/)
-[![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:yunus.acar@interaktifis.com)
+[![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:yunus3emre4@outlook.com)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@yunus3mre4)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/yunus_emreee67/) 
 <hr/>
