@@ -17,7 +17,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
+![C](https://img.shields.io/badge/-CLang-222222?style=flat&logo=c)
 <hr/>
 
 ##### Çalıştığım teknolojilerden bazıları
