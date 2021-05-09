@@ -30,7 +30,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![Web Storm](http://img.shields.io/badge/-WebStorm-00CDD7?style=flat&logo=webstorm&logoColor=ffffff)
 ![Py Charm](http://img.shields.io/badge/-PyCharm-FCF84A?style=flat&logo=pycharm&logoColor=727272)
-![Arduino Ide](http://img.shields.io/badge/-arduino-00ffc3?style=flat&logo=arduino&logoColor=ffff)
+![Arduino Ide](http://img.shields.io/badge/-arduino-ffff?style=flat&logo=arduino&logoColor=00ffc3)
 <hr/>
 
 ##### GitHub İstatistiklerim (Yalnızca Herkese Açık Katkılar)
