@@ -1,3 +1,6 @@
+<img src="https://res.cloudinary.com/dgr6spsst/image/upload/v1620600082/60676-happy-developer_zkshwb.gif" align="right" width="400" height="auto">
+
+
 ### Merhaba, Ben Yunus Emre  <a href="https://www.yunusacar.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
