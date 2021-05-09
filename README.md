@@ -17,7 +17,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C Lang-222222?style=flat&logo=c)
+![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
 <hr/>
 
 ##### Çalıştığım teknolojilerden bazıları
@@ -30,7 +30,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![Web Storm](http://img.shields.io/badge/-WebStorm-00CDD7?style=flat&logo=webstorm&logoColor=ffffff)
 ![Py Charm](http://img.shields.io/badge/-PyCharm-FCF84A?style=flat&logo=pycharm&logoColor=727272)
-![Arduino Ide](http://img.shields.io/badge/-arduino-FCF84A?style=flat&logo=arduino&logoColor=00ffc3)
+![Arduino Ide](http://img.shields.io/badge/-arduino-00ffc3?style=flat&logo=arduino&logoColor=ffff)
 <hr/>
 
 ##### GitHub İstatistiklerim (Yalnızca Herkese Açık Katkılar)
