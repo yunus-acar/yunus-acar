@@ -23,7 +23,7 @@
 ![C](https://img.shields.io/badge/-C--Lang-222222?style=flat&logo=c)
 <hr/>
 
-##### Çalıştığım teknolojilerden bazıları
+##### Kullandığım  teknolojilerden bazıları
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
