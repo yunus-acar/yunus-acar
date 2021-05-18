@@ -6,7 +6,7 @@
 
 
  
-[![GitHub followers](https://img.shields.io/github/followers/yunusacarDev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yunusacarDev?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/yunus-acar.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yunus-acar?tab=followers)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-acar/)
 [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:me@yunusacar.dev)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@yunus3mre4)
@@ -38,7 +38,7 @@
 
 ##### GitHub İstatistiklerim (Yalnızca Herkese Açık Katkılar)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=yunusacarDev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=yunus-acar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=yunusacarDev)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=yunus-acar)
