@@ -38,7 +38,15 @@
 
 ##### GitHub İstatistiklerim (Yalnızca Herkese Açık Katkılar)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=yunus-acar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yunus-acar&theme=black-ice)](https://github.com/yunus-acar)
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=yunus-acar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/yunus-acar)
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=yunus-acar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/yunus-acar)
+
+[![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=yunus-acar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/yunus-acar)
+
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yunus-acar)
