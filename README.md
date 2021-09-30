@@ -25,11 +25,11 @@
 
 ##### Kullandığım  teknolojilerden bazıları
 
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/yunus-acar/)](https://github.com/yunus-acar/)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![Web Storm](http://img.shields.io/badge/-WebStorm-00CDD7?style=flat&logo=webstorm&logoColor=ffffff)
 ![Py Charm](http://img.shields.io/badge/-PyCharm-FCF84A?style=flat&logo=pycharm&logoColor=727272)
