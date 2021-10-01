@@ -40,21 +40,16 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yunus-acar&theme=black-ice)](https://github.com/yunus-acar)
+[![yunus-acar](https://github-readme-streak-stats.herokuapp.com?user=yunus-acar&theme=black-ice)](https://github.com/yunus-acar)
 
-<div style="display:flex;">
-
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=yunus-acar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/yunus-acar)
-
-<span style="margin-left:10px;">
-
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=yunus-acar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/yunus-acar)
-
-</span>
-
+<div style="display:flex;column-gap:1rem;align-items:center;justify-content:center;">
+<img src="https://github-readme-stats.vercel.app/api?username=yunus-acar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="yunus-acar" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunus-acar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="yunus-acar" />
 </div>
 
-[![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=yunus-acar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/yunus-acar)
+
+
+[![yunus-acar](https://activity-graph.herokuapp.com/graph?username=yunus-acar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/yunus-acar)
 
 
 
