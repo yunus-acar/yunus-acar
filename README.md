@@ -1,7 +1,7 @@
 <img src="https://res.cloudinary.com/dgr6spsst/image/upload/v1620600082/60676-happy-developer_zkshwb.gif" align="right" width="400" height="auto">
 
 
-### Merhaba, Ben Yunus Emre  <a href="https://www.yunusacar.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi , I'm <a href="https://www.yunusacar.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 
@@ -9,9 +9,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/yunus-acar.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yunus-acar?tab=followers)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-acar/)
 [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:me@yunusacar.dev)
-[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@yunus3mre4)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/yunus_emreee67/) 
-[![Twitter](https://img.shields.io/badge/-twitter-22405A?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yunus_emreee67)
+[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@yunus-acar)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/yunus.acar22/) 
+[![Twitter](https://img.shields.io/badge/-twitter-22405A?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yunus_acar22)
 <hr/>
 
 ##### Kullandığım diller
