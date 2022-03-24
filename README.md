@@ -49,7 +49,6 @@
 
 
 
-[![yunus-acar](https://activity-graph.herokuapp.com/graph?username=yunus-acar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/yunus-acar)
 
 
 
