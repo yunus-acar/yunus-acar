@@ -6,7 +6,7 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/yunus-acar.svg?style=for-the-badge&label=Follow&maxAge=2592000)](https://github.com/yunus-acar?tab=followers)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/yunus-acar/](https://www.linkedin.com/in/yunus-acar/))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-acar/)
 [![Gmail](https://img.shields.io/badge/-mail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@yunusacar.dev)
 [![Medium](https://img.shields.io/badge/-medium-green?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yunus-acar)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yunus.acar22/) 
