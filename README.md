@@ -1,7 +1,7 @@
 Hi 👋 My name is Yunus Emre Acar
 ================================
 
-Web Developer
+Full Stack Developer
 -------------
 
 My favorite JavaScript library that I'm currently working on is the ReactJS. And i am constantly try to improve my front end skills.
@@ -9,7 +9,7 @@ My favorite JavaScript library that I'm currently working on is the ReactJS. And
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [yunusacar.dev](http://yunusacar.dev)
 * ✉️  You can contact me at [me@yunusacar.dev](mailto:me@yunusacar.dev)
-* 🚀  I'm currently working on [Polyline Works](https://polylineworks.com)
+* 🚀  I'm currently working on [Apollo IoT](https://www.apolloiot.com)
 * ✒️  I am the founder of [Polyline Works](https://polylineworks.com).
 
 
