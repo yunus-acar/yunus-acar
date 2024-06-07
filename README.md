@@ -9,7 +9,6 @@ My favorite JavaScript library that I'm currently working on is the ReactJS. And
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [yunusacar.dev](http://yunusacar.dev)
 * ✉️  You can contact me at [me@yunusacar.dev](mailto:me@yunusacar.dev)
-* 🚀  I'm currently working on [Apollo IoT](https://www.apolloiot.com)
 * ✒️  I am the founder of [Polyline Works](https://polylineworks.com).
 
 
